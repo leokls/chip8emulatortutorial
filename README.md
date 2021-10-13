@@ -1,0 +1,1 @@
+This emulator allows a user to play chip-8 games on their modern computer.
